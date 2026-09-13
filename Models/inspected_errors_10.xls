@@ -1,0 +1,11 @@
+tweet_id,text,airline_sentiment,airline,prediction,correct
+568168460468895745,@united well it IS John Hughes' birthday. But I will stick w the plane &amp; hold off on trains &amp; automobiles. Gate workers are doing well.,positive,United,negative,False
+569483642931691520,@SouthwestAir do you ever reinstate Cancelled Flighted flights?,negative,Southwest,neutral,False
+569347934866636800,@SouthwestAir are you hiring for flight attendants right now,neutral,Southwest,negative,False
+568935917341286400,@USAirways @AmericanAir thought u merged but #USAirways sucks #worstever http://t.co/myNZitCovn,negative,US Airways,neutral,False
+568448023845572608,@JetBlue yes he and all the princesses. Trying to get to the #glassslipperchallenge at WDW.,neutral,Delta,negative,False
+570115366023770112,@united Thanks for the lack of help and the canned response from the 1K desk!,negative,United,positive,False
+570251814970515456,@AmericanAir I need refund.,negative,American,neutral,False
+568049335235010562,@united Club in Denver is dope 👌,positive,United,neutral,False
+570010327036735488,@AmericanAir I'll try to have a great week once I receive it 😩😭💔,negative,American,positive,False
+568895856750899202,@united how long does it take for customer feedback to respond to a complaint?,neutral,United,negative,False

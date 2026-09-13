@@ -1,0 +1,4 @@
+Dataset,Original labels,Mapped labels,Excluded/ambiguous,Compatible?,Reason/caution
+TweetEval,negative / neutral / positive,same,none,Yes for 3-class comparison,Direct 3-class benchmark
+Twitter US Airline Sentiment,negative / neutral / positive,same,none,Yes for 3-class comparison,Business/service entity sentiment
+Sentiment140,negative / positive,binary only,neutral unavailable,No for direct 3-class comparison,Do not fabricate neutral labels

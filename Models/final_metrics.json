@@ -1,0 +1,6 @@
+{
+  "selected_model": "Logistic Regression",
+  "test_accuracy": 0.7916666666666666,
+  "test_macro_f1": 0.744229670611602,
+  "test_weighted_f1": 0.7957919089209536
+}

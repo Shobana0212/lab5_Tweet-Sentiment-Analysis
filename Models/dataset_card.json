@@ -1,0 +1,20 @@
+{
+  "dataset": "Twitter US Airline Sentiment",
+  "source": "Instructor-approved public dataset / Kaggle source",
+  "access_date": "2026-08-23",
+  "version": "Record the downloaded/instructor-supplied version here",
+  "license_usage": "Record the dataset page/license terms here",
+  "rows_loaded": 14640,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "text_column": "text",
+  "target_column": "airline_sentiment",
+  "entity_column": "airline",
+  "seed": 42,
+  "domain": "Airline/service customer tweets",
+  "collection_period": "February 2015",
+  "notes": "Older Twitter corpus; may not represent current X/social-media language."
+}
